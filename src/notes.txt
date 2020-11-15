@@ -1,0 +1,8 @@
+//react-flip-move
+//animations
+//image slider
+//stripe for payment
+//stripe-sachin@stripe.com(it's password)
+//stripe-sachinbarkhera1999@gmail.com(it's email)
+//publishable key from stripe
+//pk_test_51HnUiHJzy6I7zMz5gBCe44TbqhC6XCizit8ZN31ogo5GaZhaNnf3O8DwAmwV5MX4kuH9ZuROD77oZUVFqhq4Igdd00M5QOh00A
